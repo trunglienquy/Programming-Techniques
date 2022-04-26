@@ -1,0 +1,3 @@
+Prime Number have: 7
+Square Number have: 0
+Perfect Number have: 0
